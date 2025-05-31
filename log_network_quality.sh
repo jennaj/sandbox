@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Smoothed out via GTP-4o
+# 2025-05-22
+
 # Output log file
 LOGFILE="network_log.tsv"
 
